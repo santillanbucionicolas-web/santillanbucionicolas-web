@@ -1,6 +1,8 @@
 ## Holaaa soy Nico :3
 ## Tengo 19 años
 ## Estudio en la ENES juriquilla UNAM (best escuela del mundo)
+## Soy scout del grupo 10 de Querétaro :)
+## Me gusta jugar básquetbol y volleybol
 <!--
 **santillanbucionicolas-web/santillanbucionicolas-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
