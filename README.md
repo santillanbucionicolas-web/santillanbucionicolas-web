@@ -1,6 +1,6 @@
-## Holaaa soy Nico :3
-# Tengo 19 años
-# Estudio en la ENES juriquilla UNAM (best escuela del mundo)
+# Holaaa soy Nico :3
+### Tengo 19 años
+### Estudio en la ENES juriquilla UNAM (best escuela del mundo)
 <!--
 **santillanbucionicolas-web/santillanbucionicolas-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
